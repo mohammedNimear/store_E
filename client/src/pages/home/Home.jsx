@@ -1,6 +1,10 @@
 import React from 'react'
 import { Categories, Contact, FeaturedProducts, Slider } from '../../components'
 import './home.scss'
+// import { dotenv } from 'dotenv';
+
+// dotenv.config();
+
 
 const Home = () => {
   return (

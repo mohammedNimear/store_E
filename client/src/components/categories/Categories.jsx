@@ -12,7 +12,7 @@ const Categories = () => {
         </div>
         <div className="row">
         <img src="https://images.pexels.com/photos/6626999/pexels-photo-6626999.jpeg?auto=compress&cs=tinysrgb&w=400" alt="img" />
-            <button><Link className="link" to="/products/1">Men</Link></button>
+            <button><Link className="link" to="/products/2">Men</Link></button>
         </div>
       </div>
       <div className="col">
@@ -29,7 +29,7 @@ const Categories = () => {
           </div>
           <div className="col">
             <div className="row"><img src="https://images.pexels.com/photos/1619730/pexels-photo-1619730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img" />
-            <button><Link className="link" to="/products/1">Kids Fashion</Link></button></div>
+            <button><Link className="link" to="/products/2">Kids Fashion</Link></button></div>
           </div>
         </div>
         <div className="row"><img src="https://images.pexels.com/photos/573243/pexels-photo-573243.jpeg?auto=compress&cs=tinysrgb&w=400" alt="img" />
